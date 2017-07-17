@@ -1,14 +1,9 @@
 .colored
 {
-	color:blue;VirtualHost configuration:
-
-	Default server: localhost
-
-*** WARNING: No VirtualHost defined
-
-
-================== COMPLETE RESULT ==================
-VirtualHost configuration:
-*:80                   localhost (C:/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf:4)
-
+	color:blue;
+}
+p
+{
+position: relative;
+background-color: grey;
 }
